@@ -1,2 +1,2 @@
 # bio
-Static Web  |  Exericeses  |  Personal Bio
+Static Web  |  Exercises  |  Personal Bio
